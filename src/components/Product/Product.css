@@ -1,0 +1,21 @@
+.product{
+    display: flex;
+    border-bottom: 1px solid lightgray;
+    padding: 5px;
+    margin: 10px;
+}
+.prod-img{
+    margin-right: 5px;
+}
+.prod-name{
+    color: green;
+    font-weight: 400px;
+}
+.button-cart{
+    background-color: goldenrod;
+    border: 1px solid gray;
+    border-radius: 5px;
+    width: 150px;
+    height: 20px;
+    cursor: pointer;
+}
